@@ -1,0 +1,5 @@
+Integer: 42
+Float: 3.14
+Character: A
+
+B
